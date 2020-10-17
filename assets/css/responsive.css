@@ -15,6 +15,11 @@
 .cta-btn {
     padding: 10px 25px;
 }
+
+/* menu */
+li.support-dropdown:hover .dropdown-menu {
+    right: 0 !important;
+}
 /* hero */
 .hero-area {
     padding-bottom: 180px;
